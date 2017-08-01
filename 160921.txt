@@ -1,0 +1,17 @@
+160921
+
+
+김연희 교수님과 미팅 후에 각자 할것을 분배 받았고,
+나는 MFC로 버튼 부분을 맡게 되어서 일단은 제일 기본적으로 MFC가 무엇인지
+어떻게 쓰이는지에 대해 기본적으로 알아보아야 될거 같아서 
+https://www.youtube.com/watch?v=JKM6FR0_Z2s&list=PL7mmuO705dG2zFLKevTtK7eyTzmLxXY4W
+
+유투브에서 강의도 듣고
+
+https://www.google.co.kr/?gfe_rd=cr&ei=wFPhV_bRJoGL8Qfov4KACw&gws_rd=ssl#q=mfc+%EA%B0%95%EC%A2%8C+ppt&start=10
+
+ppt자료도 찾아서 보고 있다.
+
+1일차에서는 일단 MFC 입문을 하고있다.
+
+내일부터 본격적으로 버튼만들기를 할거 같다.

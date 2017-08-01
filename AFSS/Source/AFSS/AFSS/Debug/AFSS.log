@@ -1,0 +1,22 @@
+﻿  main.cpp
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(68): warning C4129: ' ': unrecognized character escape sequence
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(889): warning C4018: '<=': signed/unsigned mismatch
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(906): warning C4244: 'argument': conversion from '__int64' to 'LONG', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(917): warning C4244: '=': conversion from 'UINT64' to 'float', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(918): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(919): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(951): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(748): warning C4101: 'rtrn_Error': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(750): warning C4101: 'rtime': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1118): warning C4244: 'argument': conversion from '__int64' to 'LONG', possible loss of data
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1011): warning C4101: 'END_CLOCK': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1012): warning C4101: 'TOTAL_TIME': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1007): warning C4101: 'tmp': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1086): warning C4101: 'dwWrite': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1004): warning C4101: 'rtrn_Error': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1006): warning C4101: 'rtime': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1013): warning C4101: 'min': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1011): warning C4101: 'START_CLOCK': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1002): warning C4101: 'OverW_Buffer': unreferenced local variable
+c:\users\misc\documents\visual studio 2015\projects\afss\afss\main.cpp(1014): warning C4101: 'sec': unreferenced local variable
+  AFSS.vcxproj -> C:\Users\MISC\Documents\Visual Studio 2015\Projects\AFSS\Debug\AFSS.exe
